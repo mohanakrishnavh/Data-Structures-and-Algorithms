@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\math\primenumbers\primenumbers\source.cpp(34): warning C4018: '<': signed/unsigned mismatch
+  PrimeNumbers.vcxproj -> C:\Users\vanamalm\Desktop\C++\Math\PrimeNumbers\Debug\PrimeNumbers.exe
