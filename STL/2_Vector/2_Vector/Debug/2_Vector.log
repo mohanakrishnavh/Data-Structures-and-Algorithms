@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\2_vector\2_vector\source.cpp(76): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanamalm\desktop\c++\2_vector\2_vector\source.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanamalm\desktop\c++\2_vector\2_vector\source.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanamalm\desktop\c++\2_vector\2_vector\source.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\vanamalm\desktop\c++\2_vector\2_vector\source.cpp(124): warning C4018: '<': signed/unsigned mismatch
+  2_Vector.vcxproj -> C:\Users\vanamalm\Desktop\C++\2_Vector\Debug\2_Vector.exe
