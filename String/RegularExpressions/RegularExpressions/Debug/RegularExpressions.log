@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\string\regularexpressions\regularexpressions\source.cpp(60): warning C4129: '.': unrecognized character escape sequence
+  RegularExpressions.vcxproj -> C:\Users\vanamalm\Desktop\C++\String\RegularExpressions\Debug\RegularExpressions.exe
