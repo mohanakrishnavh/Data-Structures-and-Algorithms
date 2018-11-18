@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\vanamalm\desktop\c++\removeduplicates\removeduplicates\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+  RemoveDuplicates.vcxproj -> C:\Users\vanamalm\Desktop\C++\RemoveDuplicates\Debug\RemoveDuplicates.exe
