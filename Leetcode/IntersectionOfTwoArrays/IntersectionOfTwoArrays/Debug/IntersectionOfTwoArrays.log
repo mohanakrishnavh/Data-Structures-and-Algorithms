@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mohanakrishna\desktop\data-structures-and-algorithms\data-structures-and-algorithms\leetcode\intersectionoftwoarrays\intersectionoftwoarrays\source.cpp(12): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohanakrishna\desktop\data-structures-and-algorithms\data-structures-and-algorithms\leetcode\intersectionoftwoarrays\intersectionoftwoarrays\source.cpp(16): warning C4018: '<': signed/unsigned mismatch
+  IntersectionOfTwoArrays.vcxproj -> C:\Users\Mohanakrishna\Desktop\Data-Structures-and-Algorithms\Data-Structures-and-Algorithms\Leetcode\IntersectionOfTwoArrays\Debug\IntersectionOfTwoArrays.exe
