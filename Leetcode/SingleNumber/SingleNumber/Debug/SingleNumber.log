@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\mohanakrishna\desktop\data-structures-and-algorithms\data-structures-and-algorithms\leetcode\singlenumber\singlenumber\source.cpp(14): warning C4018: '<': signed/unsigned mismatch
+c:\users\mohanakrishna\desktop\data-structures-and-algorithms\data-structures-and-algorithms\leetcode\singlenumber\singlenumber\source.cpp(37): warning C4018: '<': signed/unsigned mismatch
+  SingleNumber.vcxproj -> C:\Users\Mohanakrishna\Desktop\Data-Structures-and-Algorithms\Data-Structures-and-Algorithms\Leetcode\SingleNumber\Debug\SingleNumber.exe
